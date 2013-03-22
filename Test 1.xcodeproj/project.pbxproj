@@ -479,6 +479,7 @@
 				717588E916FA805600B2EC41 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		717588EA16FA805600B2EC41 /* Build configuration list for PBXNativeTarget "Test 1Tests" */ = {
 			isa = XCConfigurationList;
@@ -487,6 +488,7 @@
 				717588EC16FA805600B2EC41 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
